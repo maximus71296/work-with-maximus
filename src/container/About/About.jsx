@@ -21,7 +21,7 @@ const About = () => {
     <>
       <h2 className="head-text">
         I know
-        <span> Good Maximus </span>
+        <span> Good Apps </span>
         <br />
         means
         <span> Good Business</span>
